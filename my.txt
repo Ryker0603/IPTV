@@ -1,0 +1,10 @@
+马来西亚,#genre#
+8TV,https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
+Astro Awani,https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+Bernama TV,https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
+CinemaWorld,http://210.210.155.35/dr9445/h/h04/index.m3u8
+eGG Network,http://210.210.155.37/uq2663/h/h22/index.m3u8
+Maah TV,https://hls.maahtv.live/hls/stream.m3u8
+SelangorTV,https://ythls.armelin.one/channel/UCldPEJgJgq_Mb6Ndek5RxQg.m3u8
+Sukan RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+TV9,https://live-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8
